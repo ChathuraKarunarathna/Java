@@ -5,7 +5,7 @@ public class TestEmployee
     {
         Employee E1 = new Employee();
 
-        E1.setname("Chamith");
+        E1.setname("Chathura");
         E1.setage(23);
         E1.setsalary(50000.00f);
 
@@ -15,7 +15,7 @@ public class TestEmployee
 
         System.out.println();
         
-        Constructor E2 = new Constructor("Harshamal",22,60000.00f);
+        Constructor E2 = new Constructor("Karunarathna",22,60000.00f);
 
         System.out.println("Employee name:"+E2.getname());
         System.out.println("Age:"+E2.getage());
