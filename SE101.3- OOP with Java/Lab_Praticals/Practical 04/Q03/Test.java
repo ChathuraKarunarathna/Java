@@ -2,12 +2,12 @@ public class Test {
     public static void main(String[] args)
     {
         Student stu = new Student();
-        stu.setname("Chamith Weerasingha");
+        stu.setname("Chathura Karunarathna");
         stu.setId(28507);
         stu.setcourse("Software Engineering");
 
         Lecturer lec = new Lecturer();
-        lec.setname("Mr. Pramod Perera");
+        lec.setname("Mr. Madushan Gunarathne");
         lec.setId(1056);
         lec.setprogramme("Software Engineering");
 
